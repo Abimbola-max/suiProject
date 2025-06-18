@@ -2,7 +2,7 @@ ELEMENTS
 player
 scoreboard
 quiz
--questions
+-questions(content, options)
 -options (right option specified)
 -answer
 Game features
