@@ -42,7 +42,7 @@ module wwtbas::wwtbas {
     };
     let question  = string::utf8(b"what is the capital of Malawi?");
     quiz.add_question(question);
-    assert!(quiz.get_questions().len() > 0,0) ENotImplemented);
+    assert!(quiz.get_questions().len() > 0,0);
 
     }
 }
